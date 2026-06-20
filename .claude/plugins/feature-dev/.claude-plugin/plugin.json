@@ -1,0 +1,6 @@
+{
+  "name": "feature-dev",
+  "version": "1.0.0",
+  "description": "Drive a feature from spec all the way to done",
+  "commands": ["commands/implement.md", "commands/complete.md"]
+}

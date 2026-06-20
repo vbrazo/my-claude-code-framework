@@ -1,0 +1,6 @@
+{
+  "name": "bug-detective",
+  "version": "1.0.0",
+  "description": "Track bugs to their root cause with systematic execution tracing",
+  "commands": ["commands/debug.md", "commands/trace.md"]
+}

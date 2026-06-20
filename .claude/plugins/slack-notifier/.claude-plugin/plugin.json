@@ -1,0 +1,6 @@
+{
+  "name": "slack-notifier",
+  "version": "1.0.0",
+  "description": "Post deploy and build notifications to Slack",
+  "commands": ["commands/send-update.md", "commands/create-thread.md"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "prompt-optimizer",
+  "version": "1.0.0",
+  "description": "Analyze and tune prompts for better output",
+  "commands": ["commands/analyze-prompt.md", "commands/optimize-prompt.md"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ui-designer",
+  "version": "1.0.0",
+  "description": "Turn UI specs into pixel-accurate components",
+  "commands": ["commands/implement-design.md"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "api-reference",
+  "version": "1.0.0",
+  "description": "Generate API reference docs straight from source",
+  "commands": ["commands/generate-api-ref.md"]
+}

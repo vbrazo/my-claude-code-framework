@@ -1,0 +1,6 @@
+{
+  "name": "fix-github-issue",
+  "version": "1.0.0",
+  "description": "Read a GitHub issue, diagnose it, and implement the fix",
+  "commands": ["commands/fix-issue.md"]
+}

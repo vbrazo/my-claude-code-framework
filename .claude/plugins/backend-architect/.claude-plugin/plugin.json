@@ -1,0 +1,6 @@
+{
+  "name": "backend-architect",
+  "version": "1.0.0",
+  "description": "Design backend services and scaffold their endpoints",
+  "commands": ["commands/design-service.md", "commands/add-endpoint.md"]
+}

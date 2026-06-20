@@ -1,0 +1,6 @@
+{
+  "name": "workflow-optimizer",
+  "version": "1.0.0",
+  "description": "Analyze development workflows and recommend improvements",
+  "commands": ["commands/analyze-workflow.md", "commands/suggest-improvements.md"]
+}

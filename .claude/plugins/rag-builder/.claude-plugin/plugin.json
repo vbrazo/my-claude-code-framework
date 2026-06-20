@@ -1,0 +1,6 @@
+{
+  "name": "rag-builder",
+  "version": "1.0.0",
+  "description": "Assemble retrieval-augmented generation pipelines",
+  "commands": ["commands/index-docs.md", "commands/create-retriever.md"]
+}

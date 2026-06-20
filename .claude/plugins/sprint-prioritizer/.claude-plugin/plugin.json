@@ -1,0 +1,6 @@
+{
+  "name": "sprint-prioritizer",
+  "version": "1.0.0",
+  "description": "Plan sprints with story prioritization and capacity estimates",
+  "commands": ["commands/prioritize.md", "commands/plan-sprint.md"]
+}

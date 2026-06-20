@@ -1,0 +1,6 @@
+{
+  "name": "update-branch",
+  "version": "1.0.0",
+  "description": "Rebase and refresh feature branches, resolving conflicts",
+  "commands": ["commands/rebase.md"]
+}

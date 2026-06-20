@@ -1,0 +1,6 @@
+{
+  "name": "openapi-expert",
+  "version": "1.0.0",
+  "description": "Generate, validate, and scaffold clients from OpenAPI specs",
+  "commands": ["commands/generate-spec.md", "commands/validate-spec.md"]
+}

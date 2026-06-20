@@ -1,0 +1,6 @@
+{
+  "name": "react-native-dev",
+  "version": "1.0.0",
+  "description": "Build React Native apps with platform-specific tuning",
+  "commands": ["commands/create-screen.md", "commands/native-module.md"]
+}

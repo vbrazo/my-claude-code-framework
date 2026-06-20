@@ -1,0 +1,6 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Generate a README from an analysis of the project",
+  "commands": ["commands/generate-readme.md"]
+}

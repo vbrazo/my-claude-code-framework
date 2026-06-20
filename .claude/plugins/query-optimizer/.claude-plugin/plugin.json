@@ -1,0 +1,6 @@
+{
+  "name": "query-optimizer",
+  "version": "1.0.0",
+  "description": "Optimize SQL and read its execution plans",
+  "commands": ["commands/optimize-query.md", "commands/explain-plan.md"]
+}

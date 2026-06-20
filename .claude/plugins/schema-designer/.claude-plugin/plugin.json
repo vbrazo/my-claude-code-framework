@@ -1,0 +1,6 @@
+{
+  "name": "schema-designer",
+  "version": "1.0.0",
+  "description": "Design database schemas and generate ERDs",
+  "commands": ["commands/design-schema.md", "commands/generate-erd.md"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "screen-reader-tester",
+  "version": "1.0.0",
+  "description": "Test screen-reader compatibility and fix ARIA",
+  "commands": ["commands/test-sr.md", "commands/fix-aria.md"]
+}

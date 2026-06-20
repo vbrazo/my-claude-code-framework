@@ -1,0 +1,6 @@
+{
+  "name": "monitoring-setup",
+  "version": "1.0.0",
+  "description": "Configure monitoring and alerting, dashboards included",
+  "commands": ["commands/setup-monitoring.md", "commands/create-dashboard.md"]
+}

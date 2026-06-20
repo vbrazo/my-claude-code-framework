@@ -1,0 +1,6 @@
+{
+  "name": "n8n-workflow",
+  "version": "1.0.0",
+  "description": "Generate n8n automation workflows from plain descriptions",
+  "commands": ["commands/create-workflow.md"]
+}

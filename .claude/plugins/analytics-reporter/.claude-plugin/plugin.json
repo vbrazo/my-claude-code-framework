@@ -1,0 +1,6 @@
+{
+  "name": "analytics-reporter",
+  "version": "1.0.0",
+  "description": "Turn project data into analytics reports and dashboard configs",
+  "commands": ["commands/report.md", "commands/dashboard.md"]
+}

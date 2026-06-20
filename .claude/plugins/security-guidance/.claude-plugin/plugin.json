@@ -1,0 +1,6 @@
+{
+  "name": "security-guidance",
+  "version": "1.0.0",
+  "description": "Security guidance that flags vulnerabilities and fixes them",
+  "commands": ["commands/security-check.md", "commands/fix-vulnerability.md"]
+}

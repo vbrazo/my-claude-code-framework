@@ -1,0 +1,6 @@
+{
+  "name": "double-check",
+  "version": "1.0.0",
+  "description": "Catch correctness issues with a systematic second pass",
+  "commands": ["commands/verify.md"]
+}

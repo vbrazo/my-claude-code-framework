@@ -1,0 +1,6 @@
+{
+  "name": "e2e-runner",
+  "version": "1.0.0",
+  "description": "Run and record end-to-end tests for web apps",
+  "commands": ["commands/run-e2e.md", "commands/record-test.md"]
+}

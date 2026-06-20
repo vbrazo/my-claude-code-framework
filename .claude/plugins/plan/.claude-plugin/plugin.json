@@ -1,0 +1,6 @@
+{
+  "name": "plan",
+  "version": "1.0.0",
+  "description": "Plan work with risk assessment and time estimates",
+  "commands": ["commands/plan.md", "commands/estimate.md"]
+}

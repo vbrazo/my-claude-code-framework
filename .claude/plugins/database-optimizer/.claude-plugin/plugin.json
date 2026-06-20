@@ -1,0 +1,6 @@
+{
+  "name": "database-optimizer",
+  "version": "1.0.0",
+  "description": "Tune database queries with index advice and EXPLAIN analysis",
+  "commands": ["commands/analyze-query.md", "commands/add-index.md"]
+}

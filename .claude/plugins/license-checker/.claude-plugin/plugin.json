@@ -1,0 +1,6 @@
+{
+  "name": "license-checker",
+  "version": "1.0.0",
+  "description": "Check license compliance and generate NOTICE files",
+  "commands": ["commands/check-licenses.md", "commands/generate-notice.md"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "load-tester",
+  "version": "1.0.0",
+  "description": "Run load and stress tests against APIs and web services",
+  "commands": ["commands/run-load-test.md", "commands/generate-report.md"]
+}

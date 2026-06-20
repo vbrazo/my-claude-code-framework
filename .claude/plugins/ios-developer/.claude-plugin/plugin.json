@@ -1,0 +1,6 @@
+{
+  "name": "ios-developer",
+  "version": "1.0.0",
+  "description": "Build iOS apps in Swift with SwiftUI views and models",
+  "commands": ["commands/create-view.md", "commands/add-model.md"]
+}

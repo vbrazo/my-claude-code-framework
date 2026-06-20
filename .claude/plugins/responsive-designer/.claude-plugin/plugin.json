@@ -1,0 +1,6 @@
+{
+  "name": "responsive-designer",
+  "version": "1.0.0",
+  "description": "Build and test responsive layouts",
+  "commands": ["commands/add-breakpoints.md", "commands/test-responsive.md"]
+}

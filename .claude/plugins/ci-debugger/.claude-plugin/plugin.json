@@ -1,0 +1,6 @@
+{
+  "name": "ci-debugger",
+  "version": "1.0.0",
+  "description": "Diagnose failing CI/CD pipelines and repair their configs",
+  "commands": ["commands/analyze-ci-failure.md", "commands/fix-pipeline.md"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "rapid-prototyper",
+  "version": "1.0.0",
+  "description": "Spin up quick prototypes with a minimal viable structure",
+  "commands": ["commands/prototype.md", "commands/mockup.md"]
+}

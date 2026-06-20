@@ -1,0 +1,6 @@
+{
+  "name": "experiment-tracker",
+  "version": "1.0.0",
+  "description": "Track ML experiments \u2014 log metrics and compare runs",
+  "commands": ["commands/track.md", "commands/compare.md"]
+}

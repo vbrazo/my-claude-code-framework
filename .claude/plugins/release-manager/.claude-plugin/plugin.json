@@ -1,0 +1,6 @@
+{
+  "name": "release-manager",
+  "version": "1.0.0",
+  "description": "Manage semantic versioning and automate releases",
+  "commands": ["commands/bump-version.md", "commands/release.md"]
+}

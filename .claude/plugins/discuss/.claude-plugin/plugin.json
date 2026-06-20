@@ -1,0 +1,6 @@
+{
+  "name": "discuss",
+  "version": "1.0.0",
+  "description": "Weigh implementation approaches through structured pros and cons",
+  "commands": ["commands/discuss.md"]
+}

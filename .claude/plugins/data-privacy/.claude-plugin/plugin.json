@@ -1,0 +1,6 @@
+{
+  "name": "data-privacy",
+  "version": "1.0.0",
+  "description": "Implement data privacy with PII detection and anonymization",
+  "commands": ["commands/audit-pii.md", "commands/anonymize.md"]
+}

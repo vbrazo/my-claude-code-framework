@@ -1,0 +1,6 @@
+{
+  "name": "migration-generator",
+  "version": "1.0.0",
+  "description": "Generate database migrations and manage rollbacks",
+  "commands": ["commands/create-migration.md", "commands/rollback.md"]
+}

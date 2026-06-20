@@ -1,0 +1,6 @@
+{
+  "name": "frontend-developer",
+  "version": "1.0.0",
+  "description": "Build frontend components with accessibility and responsiveness baked in",
+  "commands": ["commands/create-component.md", "commands/style.md"]
+}

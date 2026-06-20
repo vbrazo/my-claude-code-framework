@@ -1,0 +1,6 @@
+{
+  "name": "aws-helper",
+  "version": "1.0.0",
+  "description": "Configure and deploy AWS services with less boilerplate",
+  "commands": ["commands/setup-lambda.md", "commands/configure-s3.md"]
+}

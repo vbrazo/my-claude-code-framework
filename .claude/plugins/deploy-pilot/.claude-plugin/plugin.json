@@ -1,0 +1,6 @@
+{
+  "name": "deploy-pilot",
+  "version": "1.0.0",
+  "description": "Automate deploys \u2014 Dockerfiles, CI/CD pipelines, and IaC",
+  "commands": ["commands/dockerfile.md", "commands/ci-pipeline.md", "commands/k8s-manifest.md"]
+}

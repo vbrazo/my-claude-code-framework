@@ -1,0 +1,6 @@
+{
+  "name": "azure-helper",
+  "version": "1.0.0",
+  "description": "Configure and deploy Azure services with less boilerplate",
+  "commands": ["commands/setup-functions.md", "commands/configure-blob.md"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "technical-sales",
+  "version": "1.0.0",
+  "description": "Build technical demos and write POC proposals",
+  "commands": ["commands/create-demo.md", "commands/write-proposal.md"]
+}

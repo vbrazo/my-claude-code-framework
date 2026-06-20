@@ -1,0 +1,6 @@
+{
+  "name": "bundle-analyzer",
+  "version": "1.0.0",
+  "description": "Inspect frontend bundle size and squeeze it with tree-shaking",
+  "commands": ["commands/analyze-bundle.md", "commands/tree-shake.md"]
+}

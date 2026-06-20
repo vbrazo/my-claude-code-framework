@@ -1,0 +1,6 @@
+{
+  "name": "perf-profiler",
+  "version": "1.0.0",
+  "description": "Profile performance and recommend where to optimize",
+  "commands": ["commands/profile.md", "commands/optimize.md"]
+}
